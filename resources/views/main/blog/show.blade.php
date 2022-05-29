@@ -18,7 +18,6 @@
             <div class="col-md-10 col-xl-8">
               <div class="post-single-wrap">
                 <div class="post-item">
-                  <h2>{{ $article->title }}</h2>
                   <ul class="list-dotted">
                     <li>
                       <div class="post-author">
